@@ -10,5 +10,5 @@ Qwen3 Local LLM is used (no API key needed).
 https://colab.research.google.com/drive/1gOB01JLNpR9PPjUZfIVM7uDjUpA-YuSx?usp=sharing
 
 ## Requirements
-- NVIDIA GPU (Colab T4 GPU will suffice)
+- NVIDIA GPU (Colab supplies free T4 GPU)
 - \>=8GB VRAM for Qwen3-8B-4bit model, >=12GB VRAM for Qwen3-14B-4bit model
